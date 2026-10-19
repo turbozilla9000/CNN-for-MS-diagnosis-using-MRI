@@ -1,4 +1,4 @@
-# A simple CNN for Multiple Sclerosis (MS) diagnosis using Magnetic resonance imaging (MRI). (Under Construction)
+# A simple CNN for Multiple Sclerosis (MS) diagnosis using Magnetic resonance imaging (MRI)
 ### Info ℹ️
 For my final master's thesis, I developed and implemented a simple convolutional neural network to help facilitate, accelerate and improve the complex process of diagnosing the disease.
 
